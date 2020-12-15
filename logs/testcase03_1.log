@@ -1,0 +1,10 @@
+[INFO ] 2020-12-13 21:53:28.108 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase03**************
+
+[INFO ] 2020-12-13 21:53:28.130 - tests.FirstTest:testcase03 30==>  Test 3 starts
+[INFO ] 2020-12-13 23:35:36.541 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase03**************
+
+[INFO ] 2020-12-13 23:35:36.555 - tests.FirstTest:testcase03 33==>  Test 3 starts

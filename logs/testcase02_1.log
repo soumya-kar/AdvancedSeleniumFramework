@@ -1,0 +1,95 @@
+[INFO ] 2020-12-13 21:53:28.080 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-13 21:53:28.104 - tests.FirstTest:testcase02 23==>  Test 2 starts
+[INFO ] 2020-12-13 23:35:36.326 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-13 23:35:36.540 - tests.FirstTest:testcase02 26==>  Test 2 starts
+[INFO ] 2020-12-13 23:45:40.754 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-13 23:45:41.067 - tests.FirstTest:testcase02 28==>  Test 2 starts
+[INFO ] 2020-12-13 23:45:45.551 - tests.FirstTest:testcase02 30==>  Test 2 ends
+[INFO ] 2020-12-14 00:09:59.912 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-14 00:10:00.796 - tests.FirstTest:testcase02 28==>  Test 2 starts
+[INFO ] 2020-12-14 00:10:04.308 - tests.FirstTest:testcase02 30==>  Test 2 ends
+[INFO ] 2020-12-14 00:32:18.991 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-14 00:32:19.058 - tests.FirstTest:testcase02 28==>  Test 2 starts
+[INFO ] 2020-12-14 00:32:21.582 - tests.FirstTest:testcase02 30==>  Test 2 ends
+[INFO ] 2020-12-14 00:40:26.542 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-14 00:40:26.700 - tests.FirstTest:testcase02 28==>  Test 2 starts
+[INFO ] 2020-12-14 00:40:29.286 - tests.FirstTest:testcase02 30==>  Test 2 ends
+[INFO ] 2020-12-14 01:00:28.099 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-14 01:00:28.320 - tests.FirstTest:testcase02 28==>  Test 2 starts
+[INFO ] 2020-12-14 01:00:30.822 - tests.FirstTest:testcase02 30==>  Test 2 ends
+[INFO ] 2020-12-14 01:03:09.736 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-14 01:03:09.770 - tests.FirstTest:testcase02 30==>  Test 2 starts
+[INFO ] 2020-12-14 01:04:08.664 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-14 01:04:08.711 - tests.FirstTest:testcase02 30==>  Test 2 starts
+[INFO ] 2020-12-14 01:06:32.174 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-14 01:06:32.210 - tests.FirstTest:testcase02 30==>  Test 2 starts
+[INFO ] 2020-12-15 00:05:19.607 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-15 00:05:19.913 - tests.FirstTest:testcase02 30==>  Test 2 starts
+[INFO ] 2020-12-15 00:12:16.557 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-15 00:12:16.570 - tests.FirstTest:testcase02 32==>  Test 2 starts
+[INFO ] 2020-12-15 00:12:30.774 - tests.FirstTest:testcase02 42==>  Test 2 ends
+[INFO ] 2020-12-15 00:14:57.675 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-15 00:14:57.682 - tests.FirstTest:testcase02 32==>  Test 2 starts
+[INFO ] 2020-12-15 00:15:07.762 - tests.FirstTest:testcase02 42==>  Test 2 ends
+[INFO ] 2020-12-15 00:26:08.140 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-15 00:26:08.146 - tests.FirstTest:testcase02 32==>  Test 2 starts
+[INFO ] 2020-12-15 00:26:18.339 - tests.FirstTest:testcase02 42==>  Test 2 ends
+[INFO ] 2020-12-15 22:48:32.860 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-15 22:48:32.925 - tests.FirstTest:testcase02 32==>  Test 2 starts
+[INFO ] 2020-12-15 22:53:19.529 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-15 22:53:19.549 - tests.FirstTest:testcase02 32==>  Test 2 starts
+[INFO ] 2020-12-15 22:53:33.466 - tests.FirstTest:testcase02 38==>  Test 2 ends
+[INFO ] 2020-12-15 23:01:03.371 - testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : testcase02**************
+
+[INFO ] 2020-12-15 23:01:03.676 - tests.FirstTest:testcase02 32==>  Test 2 starts
+[INFO ] 2020-12-15 23:01:19.616 - tests.FirstTest:testcase02 38==>  Test 2 ends
